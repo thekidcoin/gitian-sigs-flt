@@ -3,13 +3,13 @@
 
     cac3106c0a8f6916ada4f7a8eb5df4e60fa8aa58b508f909cbea73cd34c3318b  README.md
 
-    059c9ddf0ec5241304e7f8e2b1779451a66b5e5bafc2b32a4b6edcc911481859  bin/32/fluttercoin-qt
+    f4951c42ccf5eddf13b00022d6387c6bb66465f9bf0ea0eb4275a530db0ae999  bin/32/fluttercoin-qt
 
-    72e322cba7859ff0d329ce66fedb388a8382b141287e0cc0a724ba3fcd33aa52  bin/32/fluttercoind
+    d18a3042ba22f2d29307d15009b969c321a3d3e76259ac74b76334d0dc33fd34  bin/32/fluttercoind
 
-    52cbd7967fd76035b1394f6564e985d9810424546abc9d7bd4784ae2e79827f0  bin/64/fluttercoin-qt
+    b532ce75cb3b8f55dd75b677e294ee4d87cb5d472ce0273180a7f427e56ac5ed  bin/64/fluttercoin-qt
 
-    06ad92accd98f78ebd30222629fb046be60ff45039b761db3b191ee64313e53d  bin/64/fluttercoind
+    0d5d266550788953370f1083a0602fc482afa7149ad8ab7e39410c5640f601d0  bin/64/fluttercoind
 
     11f006809d8da1021bb9cdcc8f4e824e16d37ed79801100044ceba2caaf0eedf  src/.gitattributes
 
@@ -21,7 +21,7 @@
 
     b335630551682c19a781afebcf4d07bf978fb1f8ac04c6bf87428ed5106870f5  src/README
 
-    1a896d82a16ccc44ec16cb6dface34c46d15943b5b7a60c8dc81a056fc3d5801  src/README.md
+    bacbd8fcf34bfabadbffd6be92a5b4dbc4d544f33ae1bcf0264c058da330a320  src/README.md
 
     97e5d499422ce8cba9ae2149f65e4bf4ec2101267ba70e21b2ab63d2b6b15503  src/contrib/bitrpc/bitrpc.py
 
@@ -75,13 +75,13 @@
 
     db5b006a191ca3bae15c044f69512110569629cf1cbaf17eb7ad7692036d611c  src/contrib/gitian-descriptors/boost-win.yml
 
-    71baea33adfe1e99fc50fbb7a67ed9caaeb7c7b076d4bec37da313ffc1633b33  src/contrib/gitian-descriptors/deps-linux.yml
+    77bc9dd66d564c68943077e8c3c2b932b8e766ebb6fbb29304f1dd82194d54ad  src/contrib/gitian-descriptors/deps-linux.yml
 
-    afd3bae1077ec42e5ce3682969747785f16a973e58ed209a03085480ad55dd02  src/contrib/gitian-descriptors/deps-win.yml
+    a5177464ed604cb591fe06b17d0cd01daa0825097a4e3d45809a592333aac8ce  src/contrib/gitian-descriptors/deps-win.yml
 
-    734b17a8254da729f5a070b5022e63f27cdd18b13286cc51e0a4541347cd047e  src/contrib/gitian-descriptors/gitian-linux.yml
+    279252c07ba473d1119c096c0b784df6ae2f4d9a4d667f74560853b60580d531  src/contrib/gitian-descriptors/gitian-linux.yml
 
-    cebd51df99be01b61c3e8e46251421c94418aa5b906b31b8859df8db9663268c  src/contrib/gitian-descriptors/gitian-win.yml
+    a059e1bb9daecaffe1c285467888618f7568477a90b5d9f1ebbcb321e2e477f9  src/contrib/gitian-descriptors/gitian-win.yml
 
     373cf288b89ab2930484528ffe731546bff1042cd8d97462deae039faa759f97  src/contrib/gitian-descriptors/protobuf-win.yml
 
@@ -197,15 +197,15 @@
 
     d2f27cf7404b9fa5d71e854f80a00944c7c97499627abb5e71493044244a25bd  src/src/bignum.h
 
-    399ea49878a47d7cf0bf768a69111e5b94d032399a7b9b5a0534f644af2f8b79  src/src/bitcoinrpc.cpp
+    53b42d3c3f70b3ccae914b69c7e2b5033e799c02a37b14e7b7ada33df502aed8  src/src/bitcoinrpc.cpp
 
-    7eb01d9530e0db6e917c9a47e3b254e732b6b4dc6efae85bf675b7aa5fa2a2ba  src/src/bitcoinrpc.h
+    a581ac8ee3549da28e3c3f470cf3bcd965b9a8af41e5d3c4792867874aed143a  src/src/bitcoinrpc.h
 
-    f18ec15c727c6c738ff353112a8c24b52901e1ac51b8e535b4094fd6b8d69029  src/src/checkpoints.cpp
+    c177c58810c907042f6bb7384c29bbf74efeef2329768c23c4694d9c80cb53c2  src/src/checkpoints.cpp
 
     fc441dafa041f533c9548d6cd0564c081e5e6dbde269cdb2faef5b8498224fa6  src/src/checkpoints.h
 
-    8c5fa9103622f0ca2b32b62cd7da04fba5d8d515590552ed6c41ffdb145bcc2f  src/src/clientversion.h
+    4180c21dde58fb5db8207b083e4a2d8fa5e6c25d3a4ede15fbb48001689ea1dd  src/src/clientversion.h
 
     d5d362a8c4c078311ea7cd8ceacb7ed7d41c3227ad0a58f2c3b8d1b7bad37aed  src/src/coincontrol.h
 
@@ -219,7 +219,7 @@
 
     5acd18d3687c79006e894fb9041d6e5ce056c6a3069f530919aed0d80c201be0  src/src/db.h
 
-    0fda82475870a46a0762de9f8b8f9e83661ecf972241e5fda1aede8c2ca7550f  src/src/init.cpp
+    90d107485b6acb88a1228f4af1a8c14538bfa2bf82b75d71768fc1db5964f3ad  src/src/init.cpp
 
     536ea47574c690dca837a74bd9cd1a61bc17ee90e661c0dd55fe4a45786d2c03  src/src/init.h
 
@@ -253,7 +253,7 @@
 
     5becffa109d7021c78c0a760dfb28c97c3a1a13ccb9b844c4caac45d390aaf3e  src/src/json/json_spirit_writer_template.h
 
-    c58b59b16f8102176624e42d95a03070389961a37528699d9859cb64ef294534  src/src/kernel.cpp
+    caf3fa69fcefeb12a5f06885ece29e48e007ccc1063f257c75e99ef29b473760  src/src/kernel.cpp
 
     bcc217b4fe4b6c80152c88d93986c6a47b813e18cf3f5ffc766593753361e986  src/src/kernel.h
 
@@ -539,13 +539,13 @@
 
     0a73c868bd45d0f671a30a9c5a4770b781b87339336b191bddb91ab12a8696d1  src/src/leveldb/util/testutil.h
 
-    eab97e057494bb0ec7b7f4c6d825ff1d7d133725c541a84e3ff7861bec5cb9f7  src/src/main.cpp
+    9f4c485d6055d06b5e886a0bdee44e8c110233cf38a519cbcb3b496a50b053b1  src/src/main.cpp
 
-    cf6fd7db87fb4270adca9fce9f7987d7a6eb4519b8b86436afe95f3c23592adc  src/src/main.h
+    e0c5bf52c7f1cdc9242c1296a64832f2564d14bc7e9eabf77cc58e1049992cbb  src/src/main.h
 
     06cca8c0c7aff336ca00c2cdef201467b72a646a4b7560eafc274d1e30c316a0  src/src/makefile.bsd
 
-    2d1bacdbe4fb20faa22c31e697a6a6da93c8a66b99a57476428ab1bd45772996  src/src/makefile.linux
+    f97554ffc52883d405f3557eabc27b9114995bb8bf777759b35b7a0acbf4533b  src/src/makefile.linux
 
     025f7bb86a46dde7de39f276cbd3f0ca0bc479179111e8e5fd45a8849cb56740  src/src/makefile.linux-mingw
 
@@ -553,19 +553,19 @@
 
     b2539ff9c137ec7e5869f1bfe0137d5abb41aafa5ad3cec36cb2c83af666f7e2  src/src/makefile.linux64-mingw
 
-    4d1fadc0baf6b755504b50eeae17383d63331991d9df4fad8ff3f33627eaf511  src/src/makefile.mingw
+    beb7694e9545ffe2793e8a4eea9848fdf47066c2af223553fc8cf88683d86ff8  src/src/makefile.mingw
 
     0b5c81385890a63f82a4fdeed741928eb057b787377dc98aaaa40ddd8616b75e  src/src/makefile.osx
 
     2894bc5b46f311d0db592170cf86eec3b06d3b9469bcce3c34ec31e91dba0638  src/src/makefile.unix
 
-    39b6abc190048d40356e8da9ebc808814ad0cc53880e0083a06d0b31e4636b29  src/src/miner.cpp
+    090935f992035c393b3001a4e69c0a3c7ef40a0310b0c6345a9a226453e4bb02  src/src/miner.cpp
 
     fa225c0777022ad2f25867b44dee16ab7bea5474c3aa38e847368d5108a6144d  src/src/miner.h
 
     28ffd4bb54fd9d18c0da7a7637abec313860266d4dc53ffb414d66267bc05b6a  src/src/mruset.h
 
-    8874994a7e9ca164f95b0f2bad4d2489bdcff06d1f62b9ae4b5d2ca49c83c2e2  src/src/net.cpp
+    f410f5a736b45611d368b7d327231349ab16ba25dfea6c39bcd4199299105fe4  src/src/net.cpp
 
     77fc0036e752d03fe7c4e44f8fd34e853c7c6875546ce3fac342e763daa32228  src/src/net.h
 
@@ -601,13 +601,13 @@
 
     252c2b083b96e1babc976b368653b42e29570270e3a982f6617669f92cc6454f  src/src/qt/addresstablemodel.h
 
-    3a9f5213cc2c78a70bad5abecf7d852fdd76e2a9de820d7a7956f6194535a422  src/src/qt/askpassphrasedialog.cpp
+    9bb738c9c3c01cf3684c2aafb7d1aaf6b9a29686b6ad974680772e8346e2493f  src/src/qt/askpassphrasedialog.cpp
 
-    8cea639ddb8947681d08a3a3633b93a9d3dd08804cc6eca765eda57b47bdf179  src/src/qt/askpassphrasedialog.h
+    fd5a2fbecb75984e550f63ce2aa3a4c604b40d46eb5092544705f036f97cf51f  src/src/qt/askpassphrasedialog.h
 
     38f232173ca595aa391c107d47f4baf992f3a2fc17cde04b921f301a9ae6f9b0  src/src/qt/bitcoin.cpp
 
-    166554ecc9dd593c9b00306aea9362b7bc2cbb483304f16bd8ef041111713cfa  src/src/qt/bitcoin.qrc
+    c65a0df59323a68cc2b16e77c069619ca94907bc6a690e29a3cb09ef605d4750  src/src/qt/bitcoin.qrc
 
     28573eda16d0549d51b64fddaea1151a5522453f8c7ab854b61c3a4ff17b6b1d  src/src/qt/bitcoinaddressvalidator.cpp
 
@@ -617,9 +617,9 @@
 
     4fa746d01f70ce488665dadede0e093e2b7065ed5efebc902404263541ee4838  src/src/qt/bitcoinamountfield.h
 
-    40c39b3db12f9e2fffa396de909abc8cc121a59a62937aaf6e6d18c55265a3be  src/src/qt/bitcoingui.cpp
+    2c0b6ec165f6b4b7751eafbe25469a7410a18229e56accb3e6fad77e15c3ae1b  src/src/qt/bitcoingui.cpp
 
-    034e87724ab85a2f60ba75abf89cf6ac641d25b0cf82af4ddb237961009629e7  src/src/qt/bitcoingui.h
+    fa65ed3ca57e6bef125fb7a842363d8e2fdf188cb89914154bf27f76e8368dd9  src/src/qt/bitcoingui.h
 
     a2b7e249c770d6f390b31b053836c90e80249d2dfe80c2c210557033207d73c5  src/src/qt/bitcoinstrings.cpp
 
@@ -647,11 +647,11 @@
 
     62c6620ba8ee54900572ad192db68357516d7b343021e9161e5a8df07d4b1910  src/src/qt/editaddressdialog.h
 
-    2e43a734d0f3c475a4f6dbf814f2f5cb4d0d5c1c8750d73be008d36491054fdb  src/src/qt/forms/aboutdialog.ui
+    5b8e97a1e14709b823642a8920540d166e05a360ebe9b08a04364f53184bad02  src/src/qt/forms/aboutdialog.ui
 
     fa346157326487546a98b821264c4186b7792a80e75d7b121e5a42dbd4088002  src/src/qt/forms/addressbookpage.ui
 
-    257540cba3daaa3a1d7984782e70fc3768e24651537ca92a7cae6d01720fb3d5  src/src/qt/forms/askpassphrasedialog.ui
+    608013c0d4aaadf24ca81e088c86505742bfd0485217009dc2bb8b2c35222ac5  src/src/qt/forms/askpassphrasedialog.ui
 
     73c4253e60b4f047180aed6a3fa12a6f2c0dc3d9211fb85c2afcbf09804f2e6c  src/src/qt/forms/coincontroldialog.ui
 
@@ -665,7 +665,7 @@
 
     a19f06ce939a8ffa052896fc42ecc11293e918f4c1d90890aa0137e21c4ecc37  src/src/qt/forms/rpcconsole.ui
 
-    f53d7026566d2adc31c7c50939fa1c16bd6ae1e809ba25831d765805f7ad5a0c  src/src/qt/forms/sendcoinsdialog.ui
+    8647212f869949cf2e157a388f467cc5e6a7387a729b5b228d14bfd1b762af0a  src/src/qt/forms/sendcoinsdialog.ui
 
     e1eb12a46aecb29af568587193b46adb4110e77102e30b8cc9111aaa21711baf  src/src/qt/forms/sendcoinsentry.ui
 
@@ -827,6 +827,10 @@
 
     872438860dd3f0006d8d4305a338866f075870b65eb99651fb45faf8e79731c8  src/src/qt/res/icons/send.png
 
+    b75f25c405b731619760dbca9046be592f2249d0b6fa07c18844d5031784cb15  src/src/qt/res/icons/staking_off.png
+
+    42466375d4755fbd98a4521807fc4c1922cc14105464aecc784befa0800338d8  src/src/qt/res/icons/staking_on.png
+
     726cc79edf1db4f9a609d8778980baba147a9957200dbaf97764b5bfb2b6fdb4  src/src/qt/res/icons/synced.png
 
     4da59fe0c6c46681576948fb3ea99bba1aea8e5e65540d2a74676f51435886a6  src/src/qt/res/icons/transaction0.png
@@ -911,21 +915,21 @@
 
     3b91d1bea4113830a0beadca787941a0585d8a96d85714cc727b176f3f2ba37b  src/src/qt/transactionview.h
 
-    e841916a2e7a005b29ed66a0b18968582c746c1fccd5a90407bd52925cee508c  src/src/qt/walletmodel.cpp
+    0e806b15fd6d8268a0428ddfb607c378b00c5d91cfbe5df310a876f3a3d58072  src/src/qt/walletmodel.cpp
 
     badd820db5a2daf2011dc4e3a59ee720e8fbe18646ba3e05d217157c8d9dfb06  src/src/qt/walletmodel.h
 
-    49ef634680d421c226a759befa2b0b8467a99eca10b9751c35c9ea2520193afa  src/src/rpcblockchain.cpp
+    9c1671c310b83582b70b8c3c27b667191da896c61aced19dc72b6f9977a91751  src/src/rpcblockchain.cpp
 
-    bcff3b9b539c4927c3026b44b8fc5f2b0d798ea533dcc3994c5aca1e4e01ef02  src/src/rpcdump.cpp
+    c495f4109a11cc19e5e6323dd1653cd2011ea43d72c752a2799a8e40cf44e270  src/src/rpcdump.cpp
 
-    1c83254630608c40507da722d0b4884733d744dbfb0951ff0c3f777a9cd63ae9  src/src/rpcmining.cpp
+    14968a592a5c15024a34c67067d6b85120a6d21142d9871b02a1b6959ace8022  src/src/rpcmining.cpp
 
     e39b5d891a9b35904865b5905b4f6d7694733870ce566634ea8bba61d090b1b6  src/src/rpcnet.cpp
 
     c440a94731807b26ea1d4cba9d56769e6b5ae4c2ed2dfba9461d399e0d163975  src/src/rpcrawtransaction.cpp
 
-    c21dca13c62cdcada6ef648c41aad1c3fe9ce473023353b26cdf189d3003d328  src/src/rpcwallet.cpp
+    70a37c81aed81301b6e83f836f981e9f17f3f1d32695b2beac864c5ae1eae178  src/src/rpcwallet.cpp
 
     8b54e9ef0c4424239b1b66ca3eea415425e3b199ab8fbb71b088ee9640b54357  src/src/script.cpp
 
@@ -1029,13 +1033,13 @@
 
     8271de3f8c5ac2994c8fb56e5b1fad73a29e5ea64a802e305128e0106f8a2706  src/src/version.cpp
 
-    7ca0b5457efa95801c10b69c594ea4b3c098c70dfc64ee65802dedd4d82185e3  src/src/version.h
+    45b678307f6a1e8fa45e367f1a520f63ed3a64a5f0cad6a00171fa0d2b5039be  src/src/version.h
 
-    ebc0837b894091bbb512e6bfed77eafbaf40b285f996d810629f20c5bb656e0d  src/src/wallet.cpp
+    8a351a17009b68e5eec94f8333a6652912869e38009bce425edf52101f91652b  src/src/wallet.cpp
 
-    be8235743e5b9d64a79d03aa9f33866242df816b31c65216afc066f8b5566f74  src/src/wallet.h
+    c9e0dac90c656236b99dacc26d5e73f83d64e4195e910f7fdd63950ef793c3bc  src/src/wallet.h
 
-    bbedcc5b4c640eaffd9054cadbb24e1ef90dd15755b1dd27416fcef9ae9570e1  src/src/walletdb.cpp
+    4eb90f947b7a6c64f81e8fba58a6a5b70748f5c9887409e29870e36646b2b57e  src/src/walletdb.cpp
 
     99446cc0828e9897b6d83c90db959be8e712f60d6c47bc51a1553b01cb28aeaa  src/src/walletdb.h
 
@@ -1082,17 +1086,17 @@
     2a0eab058a2490fc1c525be312162d559103c690f2d30e4dee22f21c636b409e  src/src/zerocoin/Zerocoin.h
 
 '
-- in_manifest: ! '734b17a8254da729f5a070b5022e63f27cdd18b13286cc51e0a4541347cd047e  fluttercoin-desc.yml
+- in_manifest: ! '279252c07ba473d1119c096c0b784df6ae2f4d9a4d667f74560853b60580d531  fluttercoin-desc.yml
 
-    3c797e2ac2cf53a1c986f366712b9debf762a88ad4b94afa69a909202f3d7591  fluttercoin-deps-linux32-gitian-r2.zip
+    e6c92fe19e01b8e47b2d4e05eda1e94b70c4e4d51b7c0b34bef2055f8786cee4  fluttercoin-deps-linux32-gitian-r3.zip
 
-    40e389bdb106d71b34f9b91ecaa3c61cad6290f1edcb4fb0ff1489ec295b4884  fluttercoin-deps-linux64-gitian-r2.zip
+    0d0f543a4f34fd9ab1ab3adac42e486ce6519e9aef72b86eb38eb0671add862e  fluttercoin-deps-linux64-gitian-r3.zip
 
     a8b2840c713bd5cc6e36b4e5ca73bf3ea5a772992e9cc9f5b2228391d6bf49eb  boost-linux32-1.55.0-gitian-r1.zip
 
     c2868fb34e67f8c7b0c4c2b956fe0495d2436f00efcce2742a8262fbff9aa104  boost-linux64-1.55.0-gitian-r1.zip
 
-    git:37373bd764bf69447de6e2278ac44f7e5dd7adc1 fluttercoin'
+    git:dc00a736c9373bb16bdd9200d1bd21f452d904a3 fluttercoin'
 - base_manifests: !omap
   - precise-i386: ! '5ebcb985ca600ff8028dd67afb6cdd03ebb375fa8d6b46a8f337ef37b68828d5  accountsservice_0.6.15-2ubuntu9.7_i386.deb
 
@@ -1162,6 +1166,8 @@
 
       0df3dc40fcc6400971790144bb8bd8ff9ec3008c6b2ea427b6debec50cb3cc3e  ca-certificates_20111211_all.deb
 
+      722c89d9e2769d93ec12838589af3a4f8bed689741afcab839b6deada9d55b25  ca-certificates_20130906ubuntu0.12.04.1_all.deb
+
       0fc58c1a13b75163c8d6953adb17ce1c73ca69db8e292f913672416cbdf66865  command-not-found_0.2.46ubuntu6_all.deb
 
       a79a86f5994e8c54fd4495d2001ddb4ee7315375c532f43fcfd790a3083b3296  command-not-found-data_0.2.46ubuntu6_i386.deb
@@ -1218,7 +1224,7 @@
 
       191898eb5d644075b20a2fac688f47c0eb85ec484a1f25f0bbee1a30fc299364  file_5.09-2_i386.deb
 
-      f4069850b876fb0d708f8bed4024cf2b71df90bbd738f0c8dd879a1cdc1dc6cc  file_5.09-2ubuntu0.2_i386.deb
+      debb085c22a839aec8c3967293a2c563653eca02000c77b046d5c5b58c82f034  file_5.09-2ubuntu0.3_i386.deb
 
       1126594ee4ac7d7b096a881870dfcdfeac17f5ca7fd228980e654663546e99d8  findutils_4.4.2-4ubuntu1_i386.deb
 
@@ -1296,11 +1302,17 @@
 
       edea41c6573ecc080e55f463a03048059c25106be158cee8f594dc0733877c5a  ifupdown_0.7~beta2ubuntu10_i386.deb
 
+      5bcca6cd95e99a73eac042e6c4f0fec1246ccddcc8c5662d673e8bf381a81257  ifupdown_0.7~beta2ubuntu11_i386.deb
+
       4f183cda05c05e3f3160a0440f7ff405b43003f0b99f46c0cfc2e9227f7835c2  info_4.13a.dfsg.1-8ubuntu2_i386.deb
 
       c78e77fc838789c012e7e8e37126cbbf3b6305b71fbc8a8ccd2ee5ac0168cc9d  initramfs-tools_0.99ubuntu13.4_all.deb
 
+      980bd0939505d93e2af72e599ad993738d4944c88d53a5c95a555dc7827423a9  initramfs-tools_0.99ubuntu13.5_all.deb
+
       0147e6d94b61703cdf62056fdb7cecfcd000c4bc9e4635d23df07f952bacc1f4  initramfs-tools-bin_0.99ubuntu13.4_i386.deb
+
+      126954efcad446b0ed4c1336a9f391a5051cc96ff8e68eddd9a9aaaed358a28d  initramfs-tools-bin_0.99ubuntu13.5_i386.deb
 
       7175ac79e6809ccd68560cec8970ec1d1d30ee006b63b271bd74fba8d0138041  initscripts_2.88dsf-13.10ubuntu11.1_i386.deb
 
@@ -1568,7 +1580,7 @@
 
       f65b7e81296dfc50b0ba1febde7cae7d05e1259c1a344a70a79296f04ba07b6a  libmagic1_5.09-2_i386.deb
 
-      de068f28d588653f30fc71ff495ece1341f72602b19df59e56b7cabea30664ea  libmagic1_5.09-2ubuntu0.2_i386.deb
+      eac6053951c4f0006183f2599048a52eda06958aae03b8bba81daff39179b052  libmagic1_5.09-2ubuntu0.3_i386.deb
 
       6029ab8e016964047c0c373086bdaa3ff869c70c5899d61ba98cda5370cf4ceb  libmng1_1.0.10-3_i386.deb
 
@@ -1710,6 +1722,8 @@
 
       76a8ef9ade4b1359f72525ab214737f41996ff1595510cf52bf6bfba68897135  libssl1.0.0_1.0.1-4ubuntu5.11_i386.deb
 
+      a9e6a05a689dec6c3b1c2b4c8c04f4c0f1f3c7f7b9279ff06abb0c975a9f5211  libssl1.0.0_1.0.1-4ubuntu5.12_i386.deb
+
       0ec6aa64cbb2bd0d163d61ff7c71165e2e2b13746aeae049266f2c1bad7033c7  libstdc++6_4.6.3-1ubuntu5_i386.deb
 
       64bae4e133119e2865d6c23946aeeb594ac528b1103fb3ddc26fb9628454f982  libstdc++6-4.6-dev_4.6.3-1ubuntu5_i386.deb
@@ -1737,6 +1751,8 @@
       52e9bfeb6c311e0800183ec48c4075755a0264e8b77666ffbf2d5cca295dfd08  libtool_2.4.2-1ubuntu1_i386.deb
 
       a4eba1a5c2f05b47c6109a9842b917fd08f88f9e6bfab5ffb7a27980989064d2  libudev0_175-0ubuntu9.4_i386.deb
+
+      e6c3fd474b326833f6a8b5d4fd9de2028c4690219da1b9ca3d1d9148bab4054b  libudev0_175-0ubuntu9.5_i386.deb
 
       3eab26da3f124ec6b5b13094db3400f99b1f92f4cb97535e98f6024c7615e8f8  libusb-0.1-4_2%3a0.1.12-20_i386.deb
 
@@ -1794,33 +1810,33 @@
 
       342bf91e3306daaed972546439fc957246085b234cd7bab333143b659c10f765  libxxf86vm1_1%3a1.1.1-2ubuntu0.1_i386.deb
 
-      32a607e0a2ebc9ff8378fa0cfd0748e8e506089a044159370f76f18981a0a277  linux-firmware_1.79.10_all.deb
+      40bf2e42b05771209497dfc1b0e5315465bbb4e138128247af278c2acdd5bb05  linux-firmware_1.79.11_all.deb
 
       dad57299eee7a3064bef97b8386da3009de5e2bd027fe99cef7c9365e953cd8a  linux-firmware_1.79.9_all.deb
 
       414bcd091dfffb2dfd45e1737c932ae06a74855e5f015988d0b9086f984bf8c2  linux-generic-lts-saucy_3.11.0.15.14_i386.deb
 
-      18623fda1851d0490690c369a26f06a3e522696d0ff204f68541840ba5d76dc5  linux-generic-lts-saucy_3.11.0.18.17_i386.deb
+      2acf920f4bf0950e7cfa2c513aff46a2854e20bbbfadadff938daaa544adb596  linux-generic-lts-saucy_3.11.0.19.18_i386.deb
 
       3bdc1fdd531331ffb7e8b3874c3d46961e36eb24d0c71d938cea0908973d1997  linux-headers-3.11.0-15_3.11.0-15.25~precise1_all.deb
 
       9dddecdf51a2410be39f44e6c442f6a7ae5e8695d01ebe7d5add6a1a9daf6610  linux-headers-3.11.0-15-generic_3.11.0-15.25~precise1_i386.deb
 
-      252fcebea41dfd2f3ce680d099e36e99623b17722e3774a9779128c51ef11207  linux-headers-3.11.0-18_3.11.0-18.32~precise1_all.deb
+      56209495b263221a59bc63214c66c37adb501a5b28b7dd8935e0f25563c34106  linux-headers-3.11.0-19_3.11.0-19.33~precise1_all.deb
 
-      cd77ccbfaab1696d58d20bd1ff0010ec7c61a5334e1f5f9a727674de978b2a61  linux-headers-3.11.0-18-generic_3.11.0-18.32~precise1_i386.deb
+      ac68a6b7bd1ca921621c3e2ace29c95efabc268d535d693422fa551ba4262e43  linux-headers-3.11.0-19-generic_3.11.0-19.33~precise1_i386.deb
 
       0192e530f7cefdb153221e69b01f1923b026b8037866d031a15b6d8216fe243b  linux-headers-generic-lts-saucy_3.11.0.15.14_i386.deb
 
-      cb4f132be4d197937eb8cda1cd4962e980962f63967c986a99edcb0e9fdec7b7  linux-headers-generic-lts-saucy_3.11.0.18.17_i386.deb
+      03f9ec0ecc70ed928a5077f8c840d7989836299dcaec78e580f07d09d54b94fb  linux-headers-generic-lts-saucy_3.11.0.19.18_i386.deb
 
       bcbafc7e651845176b5ae67eea59af06947e11c592529abf1e2f709c24855146  linux-image-3.11.0-15-generic_3.11.0-15.25~precise1_i386.deb
 
-      8ca9113fdf2f55795e29c2e727735e859ad7e7589bababe0640daae884f41094  linux-image-3.11.0-18-generic_3.11.0-18.32~precise1_i386.deb
+      b7502282cb30e78bb4bedc400b45151606c5051cb563459263c656bfe1b4d1bc  linux-image-3.11.0-19-generic_3.11.0-19.33~precise1_i386.deb
 
       596edf9b07952604fc167cb379797bf2bb3d18de27bf1c44a74586095bc41449  linux-image-generic-lts-saucy_3.11.0.15.14_i386.deb
 
-      c1dcbdb6ff08c526d02c760406a6d9e34da10af181534066855d8025384c7d34  linux-image-generic-lts-saucy_3.11.0.18.17_i386.deb
+      cf9c35728d80160deb574f2359c3b615c6574bb8df715a413c0971e685d49dfc  linux-image-generic-lts-saucy_3.11.0.19.18_i386.deb
 
       84b7657468e07d409c6adf4c39dd662c58400c05f3700f684aa86b4c78a21243  linux-libc-dev_3.2.0-58.88_i386.deb
 
@@ -1904,9 +1920,15 @@
 
       7f5c8f4a8fac11fa1fe116d8430844917093ea9d3714b6cd064be1a33bd6a14c  openssh-client_1%3a5.9p1-5ubuntu1.1_i386.deb
 
+      0417d02337bbf7026e3cb25326b48a08c12b3cc851f46a02b9b50629270c1c22  openssh-client_1%3a5.9p1-5ubuntu1.3_i386.deb
+
       0837b1c1dfd19d433cf72f7c179ed9390eba3f0aa88f92b2aaa26f88a9c833f4  openssh-server_1%3a5.9p1-5ubuntu1.1_i386.deb
 
+      4262a5c37063fe124be358f7873bbcc335f2ccbc0b9df534527e5a1bd38e0992  openssh-server_1%3a5.9p1-5ubuntu1.3_i386.deb
+
       1e21baceeb15b300583b7d3152bee6709b56388fd71fde61015b0569d64923a9  openssl_1.0.1-4ubuntu5.11_i386.deb
+
+      634c455aa2ac3a3a49adea9cd0baa4c7784687e912e8b6380f97a8b59abaa0aa  openssl_1.0.1-4ubuntu5.12_i386.deb
 
       d4a214255722734c0bbe4a38d45b3ed3435bbf24444e80ef0241f68198d441a2  os-prober_1.51ubuntu3_i386.deb
 
@@ -2082,6 +2104,8 @@
 
       da71e027e3bb1696698d555cb31d53f1ba74cde1e14ecddbd2b46e8b718fb8ea  udev_175-0ubuntu9.4_i386.deb
 
+      fefbf3f466b032cfb715800806ea91d17c031cea4234315bf572a8ebb397a788  udev_175-0ubuntu9.5_i386.deb
+
       4ae22f145a049c2174eba45136aba745aca0e790106ec84e24d163759aa8530d  ufw_0.31.1-1_all.deb
 
       6817a7b6c96f550ca29843e5c99e62d47b7888b8b3ebd1a32fe76557ad168db1  unzip_6.0-4ubuntu2_i386.deb
@@ -2223,6 +2247,8 @@
 
       0df3dc40fcc6400971790144bb8bd8ff9ec3008c6b2ea427b6debec50cb3cc3e  ca-certificates_20111211_all.deb
 
+      722c89d9e2769d93ec12838589af3a4f8bed689741afcab839b6deada9d55b25  ca-certificates_20130906ubuntu0.12.04.1_all.deb
+
       0fc58c1a13b75163c8d6953adb17ce1c73ca69db8e292f913672416cbdf66865  command-not-found_0.2.46ubuntu6_all.deb
 
       5297992825e39c62cb3d18a2f7b05ddbf709bc2395433eaa875adc9fa2a35071  command-not-found-data_0.2.46ubuntu6_amd64.deb
@@ -2279,7 +2305,7 @@
 
       7e7731644ac51c533fb0ab86a3220a8467aed95c1fb2ca4cb7366f2ff99bf689  file_5.09-2_amd64.deb
 
-      49549912c94f8a1ebe1e7f80bddccb8876fb01cebdff1e0be6aa6ab70ffdd5ed  file_5.09-2ubuntu0.2_amd64.deb
+      970a830b04f5e86321cece7628ec37a44f75b14efaf495797f392c5277ad2170  file_5.09-2ubuntu0.3_amd64.deb
 
       0489d0056ac55d8dd67671d13acc268e11287d6bbd1009de9e7aa78a8ab981a6  findutils_4.4.2-4ubuntu1_amd64.deb
 
@@ -2357,11 +2383,17 @@
 
       3317b1014009443013b17ba0bbdfa3695c3c882f0995d59da58e690fc9fc0149  ifupdown_0.7~beta2ubuntu10_amd64.deb
 
+      e467aed1f29f2d20c96997adfaaa1200c1c6e67f997def55814f73a21c0097be  ifupdown_0.7~beta2ubuntu11_amd64.deb
+
       996c9bb6300294838575a67295ba150beb15f672d6b9359b768bd43c8a70aadd  info_4.13a.dfsg.1-8ubuntu2_amd64.deb
 
       c78e77fc838789c012e7e8e37126cbbf3b6305b71fbc8a8ccd2ee5ac0168cc9d  initramfs-tools_0.99ubuntu13.4_all.deb
 
+      980bd0939505d93e2af72e599ad993738d4944c88d53a5c95a555dc7827423a9  initramfs-tools_0.99ubuntu13.5_all.deb
+
       c9fb6afaf51f733ad03614d74b061f040ad81afefdb726fc3bdb60af74353c7f  initramfs-tools-bin_0.99ubuntu13.4_amd64.deb
+
+      69b921eb4e98735e39090b53bc2030fe5485b22d136225d51475ab14138c1d70  initramfs-tools-bin_0.99ubuntu13.5_amd64.deb
 
       75fbe9fe85d7aeddd32cf1abcda704ba265213045c13e6c6006a1f22780d3643  initscripts_2.88dsf-13.10ubuntu11.1_amd64.deb
 
@@ -2629,7 +2661,7 @@
 
       92492754d6dafea4e98869f98166fc7e53808d6b3565540a4bf269103c30b8cb  libmagic1_5.09-2_amd64.deb
 
-      9470702da4f6cac0050a0d1bd34a557873d8dffb3f9886712cff714376c6ac82  libmagic1_5.09-2ubuntu0.2_amd64.deb
+      3aa9aef2cd78213a6a41a352a3ed434d0cb431819de87389938699640d0c499d  libmagic1_5.09-2ubuntu0.3_amd64.deb
 
       4ca234fb255ad25f5a39a15695715dcf56d8ca870540c196840e9ca3951f6e44  libmng1_1.0.10-3_amd64.deb
 
@@ -2771,6 +2803,8 @@
 
       b1818a0956000518a3d79f64c1bb0ee13c59fea61304a7505f1b6c537c299621  libssl1.0.0_1.0.1-4ubuntu5.11_amd64.deb
 
+      11dac3f0e300bfe74f225cccb84afcbda0e83b03b885a5f9cbff43b1479742f5  libssl1.0.0_1.0.1-4ubuntu5.12_amd64.deb
+
       232ff1166d4d567998e9a77a5a77c859f28bf3c7a0d96baaf21907ad07a0342d  libstdc++6_4.6.3-1ubuntu5_amd64.deb
 
       d325f6c3f376b275057048c98bbe81924fdad0f9bcedb47e21d9d01be0f52924  libstdc++6-4.6-dev_4.6.3-1ubuntu5_amd64.deb
@@ -2798,6 +2832,8 @@
       f76c467edd67fab02b2c03c74d281782af84f5a094cee824f510e9fb820de741  libtool_2.4.2-1ubuntu1_amd64.deb
 
       c948af35287d92498b4cf46e01aac18e4fd1b53aa1d4cb929dfc64c57567f938  libudev0_175-0ubuntu9.4_amd64.deb
+
+      cdf39dd867c164f871d7ed5665a941456c2a03a1ed65364c48dd2e03a09db181  libudev0_175-0ubuntu9.5_amd64.deb
 
       5422579a0cb3a6f0ec39e56d893f3fc3ed1c79ce1bed3429058e62608a146d1d  libusb-0.1-4_2%3a0.1.12-20_amd64.deb
 
@@ -2855,33 +2891,33 @@
 
       5b089ccbeb91b6c24bcf55a28f68f86538cbaad60ac201bd84f17b114e86e899  libxxf86vm1_1%3a1.1.1-2ubuntu0.1_amd64.deb
 
-      32a607e0a2ebc9ff8378fa0cfd0748e8e506089a044159370f76f18981a0a277  linux-firmware_1.79.10_all.deb
+      40bf2e42b05771209497dfc1b0e5315465bbb4e138128247af278c2acdd5bb05  linux-firmware_1.79.11_all.deb
 
       dad57299eee7a3064bef97b8386da3009de5e2bd027fe99cef7c9365e953cd8a  linux-firmware_1.79.9_all.deb
 
       9c013b09de546d7f8d6c1191318abe028132dc80a5a9cfbb781a032981dee4eb  linux-generic-lts-saucy_3.11.0.15.14_amd64.deb
 
-      31342df646df3684593808ab366d3d29ec64d70282f8fe15c7275524d1f61282  linux-generic-lts-saucy_3.11.0.18.17_amd64.deb
+      e66393d20de0edadcb40e509161999fb289a357eb65dbbd372a90b329cebead4  linux-generic-lts-saucy_3.11.0.19.18_amd64.deb
 
       3bdc1fdd531331ffb7e8b3874c3d46961e36eb24d0c71d938cea0908973d1997  linux-headers-3.11.0-15_3.11.0-15.25~precise1_all.deb
 
       17ddc6ec2a7bd6b52a81b7ac5dabf058957a1d2389a34766b36546b7df72df57  linux-headers-3.11.0-15-generic_3.11.0-15.25~precise1_amd64.deb
 
-      252fcebea41dfd2f3ce680d099e36e99623b17722e3774a9779128c51ef11207  linux-headers-3.11.0-18_3.11.0-18.32~precise1_all.deb
+      56209495b263221a59bc63214c66c37adb501a5b28b7dd8935e0f25563c34106  linux-headers-3.11.0-19_3.11.0-19.33~precise1_all.deb
 
-      024dfb734283d3064bd4cec7c45553373d901309f26a17ad35abb9b9fdf836c0  linux-headers-3.11.0-18-generic_3.11.0-18.32~precise1_amd64.deb
+      3255a80678e1f3d30a9dc668abf0cceb63e349349f5537de302ab0484e507f2f  linux-headers-3.11.0-19-generic_3.11.0-19.33~precise1_amd64.deb
 
       2af78d6f05703041a48da95209e7b708554e8ee4afefcc43a2e9c8fc97165f5a  linux-headers-generic-lts-saucy_3.11.0.15.14_amd64.deb
 
-      c7d2dfc16f72a29b32faeceaf72a22be35cf83b6d6c4019160d442512a9ff818  linux-headers-generic-lts-saucy_3.11.0.18.17_amd64.deb
+      dc35c16c91700aac9722100734af294b7e5d2a6a1b1ef7e474c1023474bb9be4  linux-headers-generic-lts-saucy_3.11.0.19.18_amd64.deb
 
       9d325b7f9ddf892c07f60d4986d911f389b5892099598cbd3912f3fbde9ffebc  linux-image-3.11.0-15-generic_3.11.0-15.25~precise1_amd64.deb
 
-      eceb3dd902ecc5a1be4f99760749b3f6bc39d97dcc3413f2a62ff427d77acd59  linux-image-3.11.0-18-generic_3.11.0-18.32~precise1_amd64.deb
+      9d40256cbd1b33caf0e8f87aad67a16ca8426b9113544b381b6cc9ce56f2dc0e  linux-image-3.11.0-19-generic_3.11.0-19.33~precise1_amd64.deb
 
       01c7877fe2bd4bc32f5c2a376c94448061af9dd7978da563d40e9335c8397577  linux-image-generic-lts-saucy_3.11.0.15.14_amd64.deb
 
-      a0e601ef9da1ed4b9da837467be44bc3f2caf16cf697ce5e7226362212f94b42  linux-image-generic-lts-saucy_3.11.0.18.17_amd64.deb
+      679a727aacee6b54ab2d2684473810b3226cb8a2e61d1adbf25b3000a6a4e48e  linux-image-generic-lts-saucy_3.11.0.19.18_amd64.deb
 
       4d1570b8316071567776169be2e41f28f7638a081d865a3dc6d12401df2984c1  linux-libc-dev_3.2.0-58.88_amd64.deb
 
@@ -2965,9 +3001,15 @@
 
       66323667c4b13360d8d025899ea1088c4820c6386a1aa38e68639a4a59a3a191  openssh-client_1%3a5.9p1-5ubuntu1.1_amd64.deb
 
+      08da817dfc47d4b2fdcb4ba4c56e6c59f0f564bdb8558a7a1288cda407ad0b26  openssh-client_1%3a5.9p1-5ubuntu1.3_amd64.deb
+
       21881d0a7c61330357dc9812bc994a17c7b60c46022326a677c936e94ccc71a5  openssh-server_1%3a5.9p1-5ubuntu1.1_amd64.deb
 
+      194a21f47cb779015cd27925e6c43ff7805601067aa98876dbecccccdfcf3b9c  openssh-server_1%3a5.9p1-5ubuntu1.3_amd64.deb
+
       7ef2113745c4a9ab8f1abe49e91e0ffbad0f1a7489847339033a6158b512fa94  openssl_1.0.1-4ubuntu5.11_amd64.deb
+
+      8b33399d516e1f9fcff99d3f71801c52b223bec8f7650ff147f46917bffce3bc  openssl_1.0.1-4ubuntu5.12_amd64.deb
 
       ed9eb5c3c9ea3cd555b1aa16cf93f4130b59325ef6786f2c5d421a8c0213c1c6  os-prober_1.51ubuntu3_amd64.deb
 
@@ -3143,6 +3185,8 @@
 
       f72a0821911dfc2b1f6c39dab4de214e9f145e93dcff833d7b21c93ec808ebe3  udev_175-0ubuntu9.4_amd64.deb
 
+      958f6d07f2cea00558cfdf905679d0e207f5b02ba513463cb0ff0e112cab3982  udev_175-0ubuntu9.5_amd64.deb
+
       4ae22f145a049c2174eba45136aba745aca0e790106ec84e24d163759aa8530d  ufw_0.31.1-1_all.deb
 
       05f24107be4e78e19c6d245fcb22706b56fffb50ebebce8b6d50934911e05afc  unzip_6.0-4ubuntu2_amd64.deb
@@ -3216,7 +3260,7 @@
       46e68ab922ba0b8d29f1b6360fe1551eaed878336e0c13ed61d886704cd749d8  zlib1g-dev_1%3a1.2.3.4.dfsg-3ubuntu4_amd64.deb
 
 '
-- release: v0.4.5.2-flt
+- release: v0.4.5.5-flt
 - name: fluttercoin
 - type: build
 - optionals: 
